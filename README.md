@@ -1,0 +1,2 @@
+# bspwm
+Bspwm configs
